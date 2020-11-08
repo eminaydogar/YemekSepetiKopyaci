@@ -1,0 +1,10 @@
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\obj\Debug\Yemek Sepeti - Hızlı Yapistir.csprojAssemblyReference.cache
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\obj\Debug\Yemek Sepeti - Hızlı Yapistir.csproj.GenerateResource.cache
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\obj\Debug\Yemek Sepeti - Hızlı Yapistir.csproj.CoreCompileInputs.cache
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\obj\Debug\Yemek_Sepeti___Hızlı_Yapistir.Form1.resources
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\bin\Debug\Yemek Sepeti - Kopyacı.exe.config
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\bin\Debug\Yemek Sepeti - Kopyacı.exe
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\bin\Debug\Yemek Sepeti - Kopyacı.pdb
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\obj\Debug\Yemek_Sepeti_Kopyaci.Properties.Resources.resources
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\obj\Debug\Yemek Sepeti - Kopyacı.exe
+C:\Users\Emincan\source\repos\Yemek Sepeti - Hızlı Yapistir\Yemek Sepeti - Hızlı Yapistir\obj\Debug\Yemek Sepeti - Kopyacı.pdb
